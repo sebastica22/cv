@@ -1,0 +1,97 @@
+body{
+    background-color: rgba(255, 255, 255, 1);
+    font-family: 'monserrat', 'Times New Roman', Times, serif;
+}
+li{
+    
+    line-height: 24px;
+}
+.descripcion-profesion{
+    font-size: 20px;
+    font-weight: 700;
+}
+.descripcion{
+    margin-bottom: 40px;
+}
+.contenedor-principal{
+    width: 1200px;
+    margin: 40px auto;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.informacion-lateral{
+    background-color: rgba(30, 41, 57, 1);
+    padding: 40px 0;
+}
+.contacto,
+.habilidades-duras,
+.habilidades-blandas{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    color: white;
+    margin: 30px;
+}
+
+.contacto-info{
+    color: rgb(184, 179, 172);
+    font-size: 20px;
+}
+a:hover{
+    color: rgb(216, 125, 22);
+    u
+}
+.lista-lateral {
+padding: 27px;    
+}
+.lista-lateral > li {
+    font-weight: 200;
+    color: rgb(184, 179, 172);
+    
+}
+ul { 
+    list-style-type: square;
+    
+}
+.informacion-general {
+    padding: 100px 88px;
+}
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    margin: 20px 0;
+
+}
+.texto-descripcion{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    width: 400px;
+}
+.titulo-seccion-principal{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-top: 45px;
+
+}
+.lista-proyectos{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+ol{
+    padding: auto 33px;
+}
+.texto-naranja{
+color: orangered;
+}
+p1{
+    color: rgba(26, 27, 27, 0.822);
+}
+h3{
+    font-size: 22px;
+    font-weight: 700;
+}
